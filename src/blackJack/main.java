@@ -1,3 +1,8 @@
+/**
+ * @author Christian Goodman
+ * @version v1.1
+ * @since 3/7/15
+ */
 package blackJack;
 
 import java.util.Scanner;
